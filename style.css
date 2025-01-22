@@ -1,0 +1,54 @@
+h1{
+    color: cyan;
+}
+button{
+    color: aqua;
+    background-color: black;
+}
+body{
+    background-color: silver;
+}
+#one {
+    font-size: 25px;
+}
+#two {
+    font-size: 20px;
+}
+#three {
+    font-size: 10px;
+}  
+
+}  
+h1 {
+     text-align: center;
+     border-width: 3px;
+     border-style: double;
+}    
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}    
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+}    
+button {
+    background-color: #f08804;
+}     
+#logo {
+    color: #f08804;
+    font-size: 25px;
+} 
+a {
+    margin-right: 200px;
+}  
+button {
+    background-color: #f08804;
+}      
+
+body{
+    background-image: url("background-pattern-desktop\ \(1\).1.svg");
+    background-size: cover;
+    background-color: pink;
+}
